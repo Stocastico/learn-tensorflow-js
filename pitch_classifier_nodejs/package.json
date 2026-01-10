@@ -10,7 +10,7 @@
   "devDependencies": {
     "clang-format": "~1.2.3",
     "mkdirp": "~0.5.6",
-    "webpack": "~4.28.4",
+    "webpack": "~5.104.1",
     "webpack-cli": "^3.3.2",
     "webpack-dev-server": "~3.4.1"
   },
